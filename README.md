@@ -7,6 +7,8 @@
 Competitions in directory:
 * [Digit Recognizer](kaggle/mnist)
 * [AllState Claims Severity](kaggle/allstate)
+* [Titanic: Machine Learning from Disaster](kaggle/titanic)
+* [House Prices: Advanced Regression Techniques](kaggle/house_prices)
 
 ### Coursera ###
 
