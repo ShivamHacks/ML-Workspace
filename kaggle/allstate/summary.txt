@@ -1,0 +1,1178 @@
+Features: ['cat1' 'cat2' 'cat3' 'cat4' 'cat5' 'cat6' 'cat7' 'cat8' 'cat9' 'cat10'
+ 'cat11' 'cat12' 'cat13' 'cat14' 'cat15' 'cat16' 'cat17' 'cat18' 'cat19'
+ 'cat20' 'cat21' 'cat22' 'cat23' 'cat24' 'cat25' 'cat26' 'cat27' 'cat28'
+ 'cat29' 'cat30' 'cat31' 'cat32' 'cat33' 'cat34' 'cat35' 'cat36' 'cat37'
+ 'cat38' 'cat39' 'cat40' 'cat41' 'cat42' 'cat43' 'cat44' 'cat45' 'cat46'
+ 'cat47' 'cat48' 'cat49' 'cat50' 'cat51' 'cat52' 'cat53' 'cat54' 'cat55'
+ 'cat56' 'cat57' 'cat58' 'cat59' 'cat60' 'cat61' 'cat62' 'cat63' 'cat64'
+ 'cat65' 'cat66' 'cat67' 'cat68' 'cat69' 'cat70' 'cat71' 'cat72' 'cat73'
+ 'cat74' 'cat75' 'cat76' 'cat77' 'cat78' 'cat79' 'cat80' 'cat81' 'cat82'
+ 'cat83' 'cat84' 'cat85' 'cat86' 'cat87' 'cat88' 'cat89' 'cat90' 'cat91'
+ 'cat92' 'cat93' 'cat94' 'cat95' 'cat96' 'cat97' 'cat98' 'cat99' 'cat100'
+ 'cat101' 'cat102' 'cat103' 'cat104' 'cat105' 'cat106' 'cat107' 'cat108'
+ 'cat109' 'cat110' 'cat111' 'cat112' 'cat113' 'cat114' 'cat115' 'cat116'
+ 'cont1' 'cont2' 'cont3' 'cont4' 'cont5' 'cont6' 'cont7' 'cont8' 'cont9'
+ 'cont10' 'cont11' 'cont12' 'cont13' 'cont14']
+
+Features Counts:
+---------------
+A    235646
+B     78218
+Name: cat1, dtype: int64
+---------------
+A    177924
+B    135940
+Name: cat2, dtype: int64
+---------------
+A    296745
+B     17119
+Name: cat3, dtype: int64
+---------------
+A    214421
+B     99443
+Name: cat4, dtype: int64
+---------------
+A    206019
+B    107845
+Name: cat5, dtype: int64
+---------------
+A    219707
+B     94157
+Name: cat6, dtype: int64
+---------------
+A    306290
+B      7574
+Name: cat7, dtype: int64
+---------------
+A    295386
+B     18478
+Name: cat8, dtype: int64
+---------------
+A    188631
+B    125233
+Name: cat9, dtype: int64
+---------------
+A    267157
+B     46707
+Name: cat10, dtype: int64
+---------------
+A    280656
+B     33208
+Name: cat11, dtype: int64
+---------------
+A    266602
+B     47262
+Name: cat12, dtype: int64
+---------------
+A    281455
+B     32409
+Name: cat13, dtype: int64
+---------------
+A    309995
+B      3869
+Name: cat14, dtype: int64
+---------------
+A    313807
+B        57
+Name: cat15, dtype: int64
+---------------
+A    303105
+B     10759
+Name: cat16, dtype: int64
+---------------
+A    311675
+B      2189
+Name: cat17, dtype: int64
+---------------
+A    312233
+B      1631
+Name: cat18, dtype: int64
+---------------
+A    310886
+B      2978
+Name: cat19, dtype: int64
+---------------
+A    313548
+B       316
+Name: cat20, dtype: int64
+---------------
+A    313196
+B       668
+Name: cat21, dtype: int64
+---------------
+A    313794
+B        70
+Name: cat22, dtype: int64
+---------------
+A    262717
+B     51147
+Name: cat23, dtype: int64
+---------------
+A    303407
+B     10457
+Name: cat24, dtype: int64
+---------------
+A    283374
+B     30490
+Name: cat25, dtype: int64
+---------------
+A    295196
+B     18668
+Name: cat26, dtype: int64
+---------------
+A    280489
+B     33375
+Name: cat27, dtype: int64
+---------------
+A    301689
+B     12175
+Name: cat28, dtype: int64
+---------------
+A    307686
+B      6178
+Name: cat29, dtype: int64
+---------------
+A    308007
+B      5857
+Name: cat30, dtype: int64
+---------------
+A    305041
+B      8823
+Name: cat31, dtype: int64
+---------------
+A    311830
+B      2034
+Name: cat32, dtype: int64
+---------------
+A    312275
+B      1589
+Name: cat33, dtype: int64
+---------------
+A    312918
+B       946
+Name: cat34, dtype: int64
+---------------
+A    313522
+B       342
+Name: cat35, dtype: int64
+---------------
+A    260348
+B     53516
+Name: cat36, dtype: int64
+---------------
+A    276241
+B     37623
+Name: cat37, dtype: int64
+---------------
+A    282097
+B     31767
+Name: cat38, dtype: int64
+---------------
+A    305563
+B      8301
+Name: cat39, dtype: int64
+---------------
+A    300200
+B     13664
+Name: cat40, dtype: int64
+---------------
+A    302017
+B     11847
+Name: cat41, dtype: int64
+---------------
+A    310966
+B      2898
+Name: cat42, dtype: int64
+---------------
+A    306921
+B      6943
+Name: cat43, dtype: int64
+---------------
+A    287701
+B     26163
+Name: cat44, dtype: int64
+---------------
+A    306638
+B      7226
+Name: cat45, dtype: int64
+---------------
+A    312408
+B      1456
+Name: cat46, dtype: int64
+---------------
+A    312672
+B      1192
+Name: cat47, dtype: int64
+---------------
+A    313415
+B       449
+Name: cat48, dtype: int64
+---------------
+A    298622
+B     15242
+Name: cat49, dtype: int64
+---------------
+A    229499
+B     84365
+Name: cat50, dtype: int64
+---------------
+A    311832
+B      2032
+Name: cat51, dtype: int64
+---------------
+A    299266
+B     14598
+Name: cat52, dtype: int64
+---------------
+A    288337
+B     25527
+Name: cat53, dtype: int64
+---------------
+A    306339
+B      7525
+Name: cat54, dtype: int64
+---------------
+A    313622
+B       242
+Name: cat55, dtype: int64
+---------------
+A    313571
+B       293
+Name: cat56, dtype: int64
+---------------
+A    308856
+B      5008
+Name: cat57, dtype: int64
+---------------
+A    313472
+B       392
+Name: cat58, dtype: int64
+---------------
+A    313358
+B       506
+Name: cat59, dtype: int64
+---------------
+A    313161
+B       703
+Name: cat60, dtype: int64
+---------------
+A    312620
+B      1244
+Name: cat61, dtype: int64
+---------------
+A    313798
+B        66
+Name: cat62, dtype: int64
+---------------
+A    313740
+B       124
+Name: cat63, dtype: int64
+---------------
+A    313795
+B        69
+Name: cat64, dtype: int64
+---------------
+A    310077
+B      3787
+Name: cat65, dtype: int64
+---------------
+A    299912
+B     13952
+Name: cat66, dtype: int64
+---------------
+A    312738
+B      1126
+Name: cat67, dtype: int64
+---------------
+A    313613
+B       251
+Name: cat68, dtype: int64
+---------------
+A    313362
+B       502
+Name: cat69, dtype: int64
+---------------
+A    313821
+B        43
+Name: cat70, dtype: int64
+---------------
+A    297833
+B     16031
+Name: cat71, dtype: int64
+---------------
+A    197808
+B    116056
+Name: cat72, dtype: int64
+---------------
+A    256870
+B     56945
+C        49
+Name: cat73, dtype: int64
+---------------
+A    307786
+B      6029
+C        49
+Name: cat74, dtype: int64
+---------------
+A    257135
+B     56726
+C         3
+Name: cat75, dtype: int64
+---------------
+A    302213
+B     10308
+C      1343
+Name: cat76, dtype: int64
+---------------
+D    312479
+C       680
+B       622
+A        83
+Name: cat77, dtype: int64
+---------------
+B    310851
+A      1346
+C      1090
+D       577
+Name: cat78, dtype: int64
+---------------
+B    254936
+D     44351
+A     11741
+C      2836
+Name: cat79, dtype: int64
+---------------
+D    229344
+B     77274
+C      5911
+A      1335
+Name: cat80, dtype: int64
+---------------
+D    257299
+B     39961
+C     15258
+A      1346
+Name: cat81, dtype: int64
+---------------
+B    245540
+A     32348
+D     31586
+C      4390
+Name: cat82, dtype: int64
+---------------
+B    235643
+A     43427
+D     26384
+C      8410
+Name: cat83, dtype: int64
+---------------
+C    258138
+A     49252
+D      5760
+B       714
+Name: cat84, dtype: int64
+---------------
+B    309968
+C      1710
+A      1346
+D       840
+Name: cat85, dtype: int64
+---------------
+B    172499
+D    121605
+C     17045
+A      2715
+Name: cat86, dtype: int64
+---------------
+B    278298
+D     19527
+C     14693
+A      1346
+Name: cat87, dtype: int64
+---------------
+A    281353
+D     32339
+E       153
+B        19
+Name: cat88, dtype: int64
+---------------
+A    306290
+B      7144
+C       361
+D        53
+E         7
+H         3
+G         2
+F         2
+I         2
+Name: cat89, dtype: int64
+---------------
+A    296745
+B     15792
+C      1195
+D       112
+E        11
+F         7
+G         2
+Name: cat90, dtype: int64
+---------------
+A    184815
+B     71131
+G     44591
+C     10769
+D      1934
+E       402
+F       173
+H        49
+Name: cat91, dtype: int64
+---------------
+A    207742
+H    104870
+B      1076
+C       110
+I        49
+D        13
+E         2
+G         1
+F         1
+Name: cat92, dtype: int64
+---------------
+D    250268
+C     59736
+B      1915
+E      1205
+A       740
+Name: cat93, dtype: int64
+---------------
+D    202549
+B     86268
+C     22813
+A      1225
+F       827
+E       150
+G        32
+Name: cat94, dtype: int64
+---------------
+C    146367
+D    132218
+E     28901
+A      6206
+B       172
+Name: cat95, dtype: int64
+---------------
+E    290522
+D     13336
+B      4858
+G      4468
+F       572
+A        54
+C        34
+I        19
+H         1
+Name: cat96, dtype: int64
+---------------
+C    129940
+E     79115
+A     70445
+G     27661
+D      6299
+F       346
+B        58
+Name: cat97, dtype: int64
+---------------
+A    175292
+D     84683
+C     35994
+E     16971
+B       924
+Name: cat98, dtype: int64
+---------------
+P    132100
+T    121619
+R     17045
+D     14583
+S     11714
+N      4771
+K      4533
+F      4450
+E      1756
+C       542
+J       416
+H       158
+M        79
+I        64
+G        29
+O         4
+U         1
+Name: cat99, dtype: int64
+---------------
+F    71817
+I    66619
+L    33238
+K    22852
+G    21574
+J    19996
+H    17797
+A    15710
+N    12703
+B    10954
+O     9544
+M     8748
+C     1345
+D      918
+E       49
+Name: cat100, dtype: int64
+---------------
+A    177924
+D     28819
+C     28215
+G     18183
+F     17021
+J     12092
+I     11080
+M      6084
+L      5233
+Q      4543
+O      4134
+S       279
+R       234
+E         8
+B         7
+H         3
+K         3
+U         1
+N         1
+Name: cat101, dtype: int64
+---------------
+A    295386
+B      8660
+C      8234
+E       792
+D       740
+G        31
+F        19
+H         1
+J         1
+Name: cat102, dtype: int64
+---------------
+A    206019
+B     55494
+C     27792
+D     12986
+E      7535
+F      2506
+G       904
+H       330
+I       167
+J        78
+L        26
+K        23
+N         3
+M         1
+Name: cat103, dtype: int64
+---------------
+E    71557
+G    67626
+D    45861
+F    32069
+H    28462
+K    24231
+I    18346
+C    11581
+L     5763
+J     5225
+M     1914
+O      665
+N      250
+P      136
+A      105
+B       69
+Q        4
+Name: cat104, dtype: int64
+---------------
+E    127477
+F    104812
+G     34295
+D     20345
+H     18763
+I      4867
+J      1193
+K       842
+C       449
+M       290
+L       248
+A       127
+N        93
+P        28
+O        18
+B         6
+Q         5
+T         3
+R         2
+S         1
+Name: cat105, dtype: int64
+---------------
+G    78180
+H    62597
+F    60520
+I    35874
+J    30373
+E    21871
+K    13535
+L     4872
+D     3202
+M     1971
+N      380
+C      204
+A      116
+O       96
+R       55
+B       14
+P        3
+Q        1
+Name: cat106, dtype: int64
+---------------
+F    78863
+G    47225
+H    39144
+J    37430
+K    33908
+I    33409
+E    20691
+L    11849
+D     5388
+M     3456
+N     1330
+C      340
+Q      254
+O      223
+P      166
+A      116
+U       55
+R       10
+B        4
+S        3
+Name: cat107, dtype: int64
+---------------
+B    108731
+K     71158
+G     35899
+D     31948
+F     16971
+A     15417
+E     13260
+I     12070
+H      7180
+C       884
+J       346
+Name: cat108, dtype: int64
+---------------
+BI    255052
+AB     36289
+BU      5316
+K       4956
+G       2264
+BQ      1788
+N        763
+M        739
+BO       549
+BH       421
+D        385
+AR       359
+AT       331
+CL       298
+AL       270
+AS       259
+CD       251
+R        238
+BL       208
+CI       196
+F        196
+L        166
+I        165
+H        127
+U        126
+AW       116
+Q        103
+O         98
+AQ        96
+CA        95
+       ...  
+BC        20
+CK        19
+V         18
+CF        17
+AY        14
+AF        13
+AP        13
+CE        12
+P         12
+CG        11
+AV        10
+CJ         8
+BE         7
+CH         7
+BN         7
+BG         6
+AO         5
+CB         3
+BY         3
+BV         2
+BM         2
+ZZ         2
+BT         2
+AD         2
+AG         1
+J          1
+BF         1
+B          1
+AK         1
+BP         1
+Name: cat109, Length: 85, dtype: int64
+---------------
+CL    42097
+CS    40996
+EG    40885
+EB    35965
+CO    29216
+BT    27267
+EL    15203
+BC     6857
+DW     6005
+CQ     5437
+DX     5210
+AI     4941
+BP     4746
+C      4577
+W      4567
+AC     4306
+CM     3238
+BS     3211
+DK     2968
+V      2841
+A      2200
+EE     2012
+EF     1929
+CI     1795
+DM     1358
+CR     1268
+AM     1023
+AD     1009
+AP      920
+T       870
+      ...  
+BV       10
+AH        9
+DT        9
+DN        9
+AG        9
+CX        9
+H         8
+BU        6
+DB        6
+EJ        5
+DD        5
+EK        5
+CU        5
+BM        4
+Q         4
+AF        3
+AN        3
+EI        2
+BN        2
+S         2
+AS        2
+BK        1
+EH        1
+CA        1
+BI        1
+BH        1
+DV        1
+BD        1
+EN        1
+CB        1
+Name: cat110, Length: 134, dtype: int64
+---------------
+A    214421
+C     53724
+E     24475
+G     11599
+I      6051
+K      2177
+M       784
+O       348
+Q       141
+S        68
+U        27
+W        26
+B        10
+F         5
+Y         4
+D         3
+L         1
+Name: cat111, dtype: int64
+---------------
+E     42109
+AH    31149
+AS    29310
+J     27074
+AF    15498
+AN    15320
+N     13924
+U     13901
+AV    11968
+AK    11069
+K     10124
+AI     7977
+S      7107
+AP     6618
+G      5268
+F      5226
+AW     5177
+A      4059
+AR     3921
+C      3745
+O      3633
+D      2690
+AD     2596
+AY     2392
+Y      2316
+AG     2202
+AT     2151
+AA     2112
+AM     1951
+R      1909
+AL     1860
+AX     1729
+X      1582
+I      1565
+AE     1377
+Q      1268
+V      1121
+H       906
+T       893
+AO      880
+L       809
+W       794
+B       729
+M       715
+AU      714
+AC      697
+P       679
+AB      426
+BA      337
+AJ      236
+AQ       51
+Name: cat112, dtype: int64
+---------------
+BM    43756
+AE    36915
+L     21838
+AX    21054
+Y     19146
+K     12785
+X     11670
+S     11645
+AF    10043
+AN     8701
+H      8439
+AT     7735
+AJ     7414
+AD     7320
+AS     6490
+AK     5830
+BN     5807
+I      5445
+A      5412
+J      5238
+N      4747
+Q      4618
+BC     4603
+BJ     4332
+M      4182
+AG     4024
+AW     3044
+BG     2930
+AU     2746
+AO     2710
+      ...  
+BK     1168
+AV      875
+AY      768
+AM      755
+AI      742
+BF      585
+BD      562
+AH      319
+C       237
+BB       86
+BA       67
+BI       55
+G        34
+AB       30
+AQ       27
+V        23
+U        14
+O        14
+AP       10
+E         9
+BL        6
+AL        4
+B         3
+BE        3
+AR        2
+P         2
+T         2
+AA        1
+AC        1
+R         1
+Name: cat113, Length: 63, dtype: int64
+---------------
+A    219707
+C     27746
+E     27469
+J     13570
+F     13439
+N      4097
+I      4012
+R      1457
+L      1426
+U       398
+O       397
+Q        65
+V        49
+B        11
+D         7
+S         6
+W         4
+G         3
+X         1
+Name: cat114, dtype: int64
+---------------
+K    73027
+O    44746
+J    39626
+N    37422
+P    36368
+L    26643
+M    20720
+Q    13724
+I    11721
+H     4696
+R     3451
+G      520
+F      446
+S      431
+A      116
+T      111
+U       41
+W       15
+E       15
+D       10
+X       10
+B        3
+C        2
+Name: cat115, dtype: int64
+---------------
+HK    35076
+DJ    33974
+CK    16847
+DP    15387
+GS    14649
+CR    11411
+HX     9301
+DC     7543
+HG     7361
+IE     7111
+HQ     6692
+HV     6396
+GC     6355
+LM     5524
+LB     5398
+LN     5291
+KW     5173
+HJ     4518
+GK     4372
+DF     4192
+IG     3760
+LO     3519
+MD     3290
+CB     3236
+HB     3234
+LF     3103
+GI     2975
+BY     2677
+KC     2538
+GE     2300
+      ...  
+AQ        1
+AP        1
+AS        1
+V         1
+AI        1
+BR        1
+BE        1
+BF        1
+BJ        1
+BL        1
+BN        1
+AH        1
+JI        1
+ET        1
+IB        1
+EX        1
+IK        1
+IO        1
+EM        1
+DQ        1
+MT        1
+DY        1
+JO        1
+BI        1
+JT        1
+MX        1
+JS        1
+JN        1
+N         1
+HS        1
+Name: cat116, Length: 349, dtype: int64
+---------------
+count    313864.000000
+mean          0.494096
+std           0.187768
+min           0.000016
+25%           0.347403
+50%           0.475784
+75%           0.625272
+max           0.984975
+Name: cont1, dtype: float64
+---------------
+count    313864.000000
+mean          0.507089
+std           0.207056
+min           0.001149
+25%           0.358319
+50%           0.555782
+75%           0.681761
+max           0.862654
+Name: cont2, dtype: float64
+---------------
+count    313864.000000
+mean          0.498653
+std           0.201961
+min           0.002634
+25%           0.336963
+50%           0.527991
+75%           0.634224
+max           0.944251
+Name: cont3, dtype: float64
+---------------
+count    313864.000000
+mean          0.492021
+std           0.211101
+min           0.176921
+25%           0.327354
+50%           0.452887
+75%           0.652072
+max           0.956046
+Name: cont4, dtype: float64
+---------------
+count    313864.000000
+mean          0.487513
+std           0.209063
+min           0.281143
+25%           0.281143
+50%           0.422268
+75%           0.643315
+max           0.983674
+Name: cont5, dtype: float64
+---------------
+count    313864.000000
+mean          0.491442
+std           0.205394
+min           0.012683
+25%           0.336105
+50%           0.440945
+75%           0.655818
+max           0.997162
+Name: cont6, dtype: float64
+---------------
+count    313864.000000
+mean          0.485360
+std           0.178531
+min           0.069503
+25%           0.351299
+50%           0.438650
+75%           0.591165
+max           1.000000
+Name: cont7, dtype: float64
+---------------
+count    313864.000000
+mean          0.486823
+std           0.199442
+min           0.236880
+25%           0.317960
+50%           0.441060
+75%           0.623580
+max           0.982800
+Name: cont8, dtype: float64
+---------------
+count    313864.00000
+mean          0.48571
+std           0.18185
+min           0.00008
+25%           0.35897
+50%           0.44145
+75%           0.56889
+max           0.99540
+Name: cont9, dtype: float64
+---------------
+count    313864.000000
+mean          0.498403
+std           0.185906
+min           0.000000
+25%           0.364580
+50%           0.461190
+75%           0.619840
+max           0.994980
+Name: cont10, dtype: float64
+---------------
+count    313864.000000
+mean          0.493850
+std           0.210002
+min           0.035321
+25%           0.310961
+50%           0.457203
+75%           0.678924
+max           0.998742
+Name: cont11, dtype: float64
+---------------
+count    313864.000000
+mean          0.493503
+std           0.209716
+min           0.036232
+25%           0.314945
+50%           0.462286
+75%           0.679096
+max           0.998484
+Name: cont12, dtype: float64
+---------------
+count    313864.000000
+mean          0.493917
+std           0.212911
+min           0.000228
+25%           0.315758
+50%           0.363547
+75%           0.689974
+max           0.988494
+Name: cont13, dtype: float64
+---------------
+count    313864.000000
+mean          0.495665
+std           0.222537
+min           0.178568
+25%           0.294657
+50%           0.407020
+75%           0.724707
+max           0.844848
+Name: cont14, dtype: float64

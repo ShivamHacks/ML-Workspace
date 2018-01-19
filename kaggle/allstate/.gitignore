@@ -3,4 +3,5 @@
 
 # Except...
 !*.py
+!summary.txt
 !.gitignore
