@@ -5,7 +5,7 @@ from sklearn.datasets import load_digits
 dataset = load_digits()
 X, y = dataset.data, dataset.target
 
-# Plot histogram of classes to see if classes are unbalanced
+# Plot histogram of classes. Notice that classes are imbalanced.
 bins = dataset.target_names
 counts = np.bincount(dataset.target)
 print counts
